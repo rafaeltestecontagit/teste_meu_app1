@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-nl = 200
+nl = 200222
 nc = 200
 matriz = list(range(0,nl,1))
 
